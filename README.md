@@ -1,6 +1,6 @@
 # apflask
 
-# mon_api/
+# apflask/
  ├── app.py
  ├── routes/
  │    ├── __init__.py
